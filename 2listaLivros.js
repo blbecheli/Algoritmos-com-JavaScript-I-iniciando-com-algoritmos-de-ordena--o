@@ -26,3 +26,5 @@ const precosLivros = [
   ];
   
   module.exports = precosLivros; //utilizado para exportar código para um outro arquivo
+
+  
